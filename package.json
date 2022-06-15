@@ -6,16 +6,21 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "@types/react-dom": "^18.0.5",
+    "@types/react-modal": "^3.13.1",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/styled-components": "^5.1.25",
     "@unform/core": "^2.1.6",
     "@unform/web": "^2.1.6",
     "axios": "^0.21.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-icons": "^4.2.0",
-    "react-modal": "^3.12.1",
+    "react-modal": "^3.15.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
-    "styled-components": "^5.2.1",
+    "styled-components": "^5.3.5",
+    "typescript": "^4.7.3",
     "yup": "^0.32.9"
   },
   "scripts": {
@@ -44,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-icons": "^3.0.0",
     "json-server": "^0.16.3"
   }
 }
